@@ -1,6 +1,6 @@
 # United-States-Domestic-Airline-Flights-Performance
 
-Goal is to analyze the performance of the reporting airline to improve flight reliability thereby improving customer reliability. 
+Goal is to monitor and report the performance of the airlines declaring their flights to improve flight reliability thereby improving customer reliability. 
 
 Below are the key report items,  
 -Yearly airline performance report  
