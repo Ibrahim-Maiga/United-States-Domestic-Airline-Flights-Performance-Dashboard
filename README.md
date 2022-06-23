@@ -1,6 +1,6 @@
-# US-Domestic-Airline-Flights-Performance
+# United-States-Domestic-Airline-Flights-Performance
 
-As a data analyst, you have been given a task to monitor and report US domestic airline flights performance. Goal is to analyze the performance of the reporting airline to improve flight reliability thereby improving customer reliability. 
+Goal is to analyze the performance of the reporting airline to improve flight reliability thereby improving customer reliability. 
 
 Below are the key report items,  
 -Yearly airline performance report  
