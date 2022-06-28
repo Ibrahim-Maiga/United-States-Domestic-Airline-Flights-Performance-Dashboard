@@ -1,5 +1,7 @@
 # United-States-Domestic-Airline-Flights-Performance
 
+In this Code Pattern, we will implement a live dashboard for US Domestic Airline Flights Performance using Folium and Plotly.
+
 Goal is to monitor and report the performance of the airlines declaring their flights to improve flight reliability thereby improving customer reliability. 
 
 Below are the key report items,  
